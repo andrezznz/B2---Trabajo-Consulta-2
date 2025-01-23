@@ -89,4 +89,23 @@ object ConexionMySQL {
 ## CAPTURA EN SCALA
 ![1](https://github.com/user-attachments/assets/0bb3f20a-a20f-454a-8a39-89af1ffd7037)
 
+## Referencias
+
+1. **JDBC - Oracle Documentation**  
+   Descripción detallada sobre la API JDBC de Oracle.  
+   [JDBC API Documentation](https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html)
+
+2. **Slick - Official Documentation**  
+   Slick es una librería funcional para Scala que simplifica el acceso a bases de datos relacionales utilizando un modelo funcional basado en colecciones.  
+   [Slick Documentation](https://scala-slick.org/)
+
+3. **Doobie - Official Documentation**  
+   Doobie es una librería funcional para Scala para interactuar con bases de datos utilizando un enfoque completamente funcional.  
+   [Doobie Documentation](https://tpolecat.github.io/doobie/)
+
+4. **MySQL - Documentation**  
+   Documentación oficial de MySQL que cubre la instalación, administración y uso de MySQL.  
+   [MySQL Documentation](https://dev.mysql.com/doc/)
+
+
 
